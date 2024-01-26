@@ -1,0 +1,14 @@
+/Users/andrejmoroz/Desktop/С# task/oppgaver3/bin/Debug/net8.0/oppgaver3
+/Users/andrejmoroz/Desktop/С# task/oppgaver3/bin/Debug/net8.0/oppgaver3.deps.json
+/Users/andrejmoroz/Desktop/С# task/oppgaver3/bin/Debug/net8.0/oppgaver3.runtimeconfig.json
+/Users/andrejmoroz/Desktop/С# task/oppgaver3/bin/Debug/net8.0/oppgaver3.dll
+/Users/andrejmoroz/Desktop/С# task/oppgaver3/bin/Debug/net8.0/oppgaver3.pdb
+/Users/andrejmoroz/Desktop/С# task/oppgaver3/obj/Debug/net8.0/oppgaver3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrejmoroz/Desktop/С# task/oppgaver3/obj/Debug/net8.0/oppgaver3.AssemblyInfoInputs.cache
+/Users/andrejmoroz/Desktop/С# task/oppgaver3/obj/Debug/net8.0/oppgaver3.AssemblyInfo.cs
+/Users/andrejmoroz/Desktop/С# task/oppgaver3/obj/Debug/net8.0/oppgaver3.csproj.CoreCompileInputs.cache
+/Users/andrejmoroz/Desktop/С# task/oppgaver3/obj/Debug/net8.0/oppgaver3.dll
+/Users/andrejmoroz/Desktop/С# task/oppgaver3/obj/Debug/net8.0/refint/oppgaver3.dll
+/Users/andrejmoroz/Desktop/С# task/oppgaver3/obj/Debug/net8.0/oppgaver3.pdb
+/Users/andrejmoroz/Desktop/С# task/oppgaver3/obj/Debug/net8.0/oppgaver3.genruntimeconfig.cache
+/Users/andrejmoroz/Desktop/С# task/oppgaver3/obj/Debug/net8.0/ref/oppgaver3.dll
