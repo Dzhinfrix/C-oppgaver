@@ -1,0 +1,14 @@
+/Users/andrejmoroz/Desktop/С# task/oppgaver2/bin/Debug/net8.0/oppgaver2
+/Users/andrejmoroz/Desktop/С# task/oppgaver2/bin/Debug/net8.0/oppgaver2.deps.json
+/Users/andrejmoroz/Desktop/С# task/oppgaver2/bin/Debug/net8.0/oppgaver2.runtimeconfig.json
+/Users/andrejmoroz/Desktop/С# task/oppgaver2/bin/Debug/net8.0/oppgaver2.dll
+/Users/andrejmoroz/Desktop/С# task/oppgaver2/bin/Debug/net8.0/oppgaver2.pdb
+/Users/andrejmoroz/Desktop/С# task/oppgaver2/obj/Debug/net8.0/oppgaver2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrejmoroz/Desktop/С# task/oppgaver2/obj/Debug/net8.0/oppgaver2.AssemblyInfoInputs.cache
+/Users/andrejmoroz/Desktop/С# task/oppgaver2/obj/Debug/net8.0/oppgaver2.AssemblyInfo.cs
+/Users/andrejmoroz/Desktop/С# task/oppgaver2/obj/Debug/net8.0/oppgaver2.csproj.CoreCompileInputs.cache
+/Users/andrejmoroz/Desktop/С# task/oppgaver2/obj/Debug/net8.0/oppgaver2.dll
+/Users/andrejmoroz/Desktop/С# task/oppgaver2/obj/Debug/net8.0/refint/oppgaver2.dll
+/Users/andrejmoroz/Desktop/С# task/oppgaver2/obj/Debug/net8.0/oppgaver2.pdb
+/Users/andrejmoroz/Desktop/С# task/oppgaver2/obj/Debug/net8.0/oppgaver2.genruntimeconfig.cache
+/Users/andrejmoroz/Desktop/С# task/oppgaver2/obj/Debug/net8.0/ref/oppgaver2.dll
