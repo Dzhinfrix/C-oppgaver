@@ -1,24 +1,16 @@
-﻿
-Console.Clear();
-int Main(string message)
-{
-  Console.Write(message);
-  int result = Convert.ToInt32(Console.ReadLine());
-  return result;
-}
+﻿Console.WriteLine("enter number A");
+uint A = Convert.ToUInt32(Console.ReadLine());
+Console.WriteLine("enter number B");
+uint B = Convert.ToUInt32(Console.ReadLine());
 
-int naturalNumber(int n, int m)
+void printNum(uint number) // при данной переменной если пишем ретерн то ничего не указыываем
 {
-  if (n == m) return n;
-  else Console.Write($"{naturalNumber(n, m + 1)}, ");
-  return m;
-}
+ if(number < A)
 
-int n = Main("Input N: ");
-int m = Main("Input M: ");
-if (n < m)
-{
-  Console.WriteLine("n needs to be bigger then m");
-  return;
+    return;
+ 
+    printNum(number - 1);
+ 
+ Console.Write(number + " ");
 }
-Console.WriteLine(naturalNumber(n, 1));
+printNum(B);
